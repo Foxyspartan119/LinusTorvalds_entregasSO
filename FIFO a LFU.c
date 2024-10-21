@@ -1,6 +1,6 @@
-		//Conversion de FIFO a LFU
-		//Linus Torvalds 4CV4
-		#include <stdio.h>
+	//Conversion de FIFO a LFU
+	//Linus Torvalds 4CV4
+	#include <stdio.h>
         #include <stdlib.h>
         #include <stdbool.h>
         
